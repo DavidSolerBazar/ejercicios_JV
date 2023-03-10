@@ -1,0 +1,13 @@
+{
+    {
+        "id":1,
+        "nombre":"Sesion de cine",
+        "Descripcion":"Elige una pelicula que tu quieras y ve a verla gratis",
+        "Categoria":["ocio","espectaculo"],
+        "Descuento":"50%",
+        "precioIni":"8€",
+        "PrecioFinal":"4€"
+        
+
+    }
+}

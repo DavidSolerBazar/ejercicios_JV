@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "nombre":"Armena",
+        "precio":10,
+        "foto":"armera.jpg"
+    },
+    {
+        "id":2,
+        "nombreº":"Boba Fett",
+        "precio":15,
+        "foto":"boba-fett.jpg"
+    },
+    {
+        "id":3,
+        "nombre":"Asajj ventress",
+        "precio":13,
+        "foto":"asajj-ventress.jpg"
+    },
+    {
+        "id":4,
+        "nmbre":"Bokatan",
+        "precio":20,
+        "foto":"bokatan.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Calrissian",
+        "precio":14,
+        "foto":"calrissian.jpg"
+    },
+    {
+        "id":6,
+        "nombre":"Carnor Jax",
+        "precio":22,
+        "foto":"carnor-jax.jpg"
+
+    }
+]

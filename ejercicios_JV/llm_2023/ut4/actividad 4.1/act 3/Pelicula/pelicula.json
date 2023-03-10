@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "titulo":"Troya",
+        "Sinopsi":"El amor de una mujer se desate la guerra.",
+        "fecha":"12/3/2004",
+        "edad":18,
+        "Genero":["accion","amor","politica"],
+        "Sesiones":["12:00","14:00","18:00"]
+
+    }
+]

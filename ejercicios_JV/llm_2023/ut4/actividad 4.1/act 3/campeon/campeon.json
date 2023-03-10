@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "Nombre":"Oeck",
+        "tipo":"normal",
+        "rango":1,
+        "nivel":8,
+        "habilidad":{
+            "ataque":8,
+            "defensa":10,
+            "velocidad":4,
+            "resistencia":7
+        },
+        "equipo":[
+            {"tipo":"hacha dos manos","nombre":"filo frio","puntos":2}
+        ]
+    }
+]

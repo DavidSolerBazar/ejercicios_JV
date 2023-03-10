@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "titulo":"Doom",
+        "genero":["accion","aventuras","shooter"],
+        "Pegi":18,
+        "precio":"80€",
+        "desarrollador":"ID software",
+        "editor":"bethesda",
+        "release":"8/8/2018",
+        "plataformas":["xbox series X/S","PC","Play station 5"],
+        "idiomas":["Español","Ingles","Aleman"]
+
+    }
+]

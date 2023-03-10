@@ -1,0 +1,29 @@
+{
+    "Portatiles":[
+        {
+            "id":1,
+            "nombre": "Asus 34-HN",
+            "CPUs": "4 nucleos",
+            "ram" : "4GB",
+            "Pantalla":"15'",
+            "software":["Antivirus" , "SO Micosoft" , " Office 360"]
+        },
+        {
+            "id" : 2,
+            "nombre" : "Razor 578-H",
+            "CPUs" : "8 nucleos",
+            "ram" : "8GB",
+            "pantalla" : "16'",
+            "sofware" : ["Antivirus" , "SO libre" , "Libre Office"]
+        },
+        {
+            "id":3,
+            "nombre": "HP Pavilium 21s",
+            "CPUs":"12 nucleos",
+            "ram":"16GB",
+            "pantalla": "17'",
+            "software":["Antivirus","SO Ubuuntu coret","open office"]
+        }
+    ]
+}
+

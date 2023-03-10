@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "fecha":"1/2/2023",
+        "pagada":true,
+        "descuento":false,
+        "cliente"{
+            "dni":"43130427E",
+            "nombre":"David",
+            "apellidos":"soler bazar",
+            "telefono":"664339715",
+            "direccion":{
+                "calle":"C/ general riera",
+                "numero":21,
+                "piso":3,
+                "puerta":"B",
+                "CP":"07013"
+            }
+        }
+       
+    }
+
+]
